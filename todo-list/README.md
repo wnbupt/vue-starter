@@ -2,6 +2,8 @@
 
 > A basic todo list based on vue.
 
+[![todo-list](./static/example.png)]
+
 ## Build Setup
 
 ``` bash
