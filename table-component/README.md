@@ -1,6 +1,6 @@
 # table-component
 
-> A Vue.js project
+> A table component consists of a search bar and a table
 
 ## Build Setup
 

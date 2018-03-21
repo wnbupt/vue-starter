@@ -1,6 +1,6 @@
 # github-commit
 
-> A Vue.js project
+> An easy github record reviewer based on vue.
 
 ## Build Setup
 

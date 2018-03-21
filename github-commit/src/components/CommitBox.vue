@@ -25,6 +25,7 @@
 </template>
 
 <script>
+// 设置每页返回的记录数为3
 var apiURL = "https://api.github.com/repos/vuejs/vue/commits?per_page=3&sha=";
 export default {
   /**
