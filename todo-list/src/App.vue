@@ -1,5 +1,5 @@
 <template>
-  <div id="app" style="width:600px;margin:0 auto;text-align:left">
+  <div id="app">
     <h2 style='margin-bottom:20px'>{{title}}</h2>
     <todo-list/>
   </div>
@@ -26,6 +26,8 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  width: 600px;
+  margin: 50px auto;
+  text-align: left;
 }
 </style>
