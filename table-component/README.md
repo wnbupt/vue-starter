@@ -2,6 +2,8 @@
 
 > A table component consists of a search bar and a table
 
+![markdown-editor](./static/example.png)
+
 ## Build Setup
 
 ``` bash

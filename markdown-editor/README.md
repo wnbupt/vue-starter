@@ -2,6 +2,8 @@
 
 > An easy online markdown editor based on vue.
 
+![markdown-editor](./static/example.png)
+
 ## Build Setup
 
 ``` bash

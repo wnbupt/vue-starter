@@ -1,4 +1,4 @@
-# vue-project
+# todo-list
 
 > A basic todo list based on vue.
 

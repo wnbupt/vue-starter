@@ -2,6 +2,8 @@
 
 > An easy github record reviewer based on vue.
 
+![github-commit](./static/example.png)
+
 ## Build Setup
 
 ``` bash
