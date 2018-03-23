@@ -10,3 +10,5 @@ brief manuscripts and demos for VUE learning starters
 * Github Commit Tool：https://github.com/wnbupt/vue-starter/tree/master/github-commit
 * Table Component：https://github.com/wnbupt/vue-starter/tree/master/table-component
 * Todo List：https://github.com/wnbupt/vue-starter/tree/master/todo-list
+* Router Demo：https://github.com/wnbupt/vue-starter/tree/master/router-demo
+* Shopping Car：https://github.com/wnbupt/vue-starter/tree/master/shopping-car
