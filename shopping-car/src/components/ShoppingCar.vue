@@ -46,7 +46,9 @@
         <span style="color:#f40;font-weight:700">{{totalPrice| getMoney}}</span>
         <span>元</span>    
       </span> 
-      <button class="col-md-1 col-md-offset-1 btn btn-warning" style="display:inline-block">结算</button>      
+      <a href="#/address">
+        <button class="col-md-1 col-md-offset-1 btn btn-warning" style="display:inline-block">结算</button>      
+      </a>
     </div>
 
   </div>
