@@ -3,6 +3,7 @@
 > A shopping car based on vue
 
 ![shopping-car](./static/example.png)
+![address-card](./static/example2.png)
 
 ## Build Setup
 
